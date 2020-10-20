@@ -15,7 +15,6 @@
 - K = Key
 - U = Union
 
-<br />
 **2. Interface vs Type** <br />
 Features  | Interface | Type  
 ------------- | ------------- | ------------- 
@@ -26,7 +25,6 @@ Intersection & Union  | &cross;  | &check;
 Implementes  | &check;  | &check;
 Extend  | &check;  | &cross;
 
-<br />
 **3. Classes** <br />
    Class biasanya digunakan untuk menerapkan Object Oriented Programming(OOP)
 - class basic : constructor, properties, method
