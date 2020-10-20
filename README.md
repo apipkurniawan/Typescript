@@ -17,13 +17,27 @@ learn about typescript
 
 
 2. Interface vs Type :
-Interface (features)
+2.a Interface (features)
    - Object
    - merge
    - implementes
    - extend
-Type (features)
+2.b Type (features)
    - aliases
    - object
    - intersection & union
    - implementes
+
+
+3. Classes
+   Class biasanya digunakan untuk menerapkan Object Oriented Programming(OOP)
+- class basic : constructor, properties, method
+- access modifiers (private, public, readonly)
+- inheritance / sub-class
+- static member
+- abstract classes
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
