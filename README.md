@@ -17,25 +17,7 @@
 
 
 **2. Interface vs Type** <br />
-2.a Interface (features)
-   - Object
-   - merge
-   - implementes
-   - extend
-2.b Type (features)
-   - aliases
-   - object
-   - intersection & union
-   - implementes
-Features              | Interface | Type    |
---------------------- | --------- | ------- |
-Aliases               | no        | yes     |
-Object                | yes       | yes     |
-Merge                 | yes       | no      | 
-Intersection & Union  | no        | yes     |
-Implementes           | yes       | yes     | 
-Extend                | yes       | no      | 
-
+- [x]
 Features  | Interface | Type  
 ------------- | ------------- | ------------- 
 Aliases  | no  | yes  
@@ -53,7 +35,8 @@ Extend  | yes  | no
 - static member
 - abstract classes
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+access modifier  | class | sub-class | instance
+------------- | ------------- | ------------- | -------------
+public  | 
+protected  | Content Cell
+private  | Content Cell
