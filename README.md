@@ -37,5 +37,5 @@ Extend  | yes  | no
 access modifier  | class | sub-class | instance
 ------------- | ------------- | ------------- | -------------
 public  | - [x]
-protected  | Content Cell
-private  | Content Cell
+protected  | &#9745;
+private  | &#9744;
