@@ -39,3 +39,9 @@ access modifier  | class | sub-class | instance
 public  | &check; | &check; | &check;
 protected  | &check; | &check; | &cross;
 private  | &check; | &cross; | &cross;
+
+**4. Function** <br />
+- function basic : declaration, expression, arrow
+- optional & default parameters
+- rest parameter
+- conditional type with union, generic, overloads
