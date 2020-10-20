@@ -36,8 +36,12 @@ Intersection & Union  | no        | yes     |
 Implementes           | yes       | yes     | 
 Extend                | yes       | no      | 
 
-First Header  | Second Header | First Header  | Second Header
+Features  | Second Header | First Header  | Second Header
 ------------- | ------------- | ------------- | -------------
+Aliases  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 
