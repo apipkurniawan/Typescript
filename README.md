@@ -1,7 +1,7 @@
 # typescript
-learn about typescript
+### learn about typescript
 
-1. Advanced Type :
+**1. Advanced Type**
 - Partial   =>  Partial<T>
 - Required  =>  Required<T>
 - Readonly  =>  Readonly<T>
@@ -16,7 +16,7 @@ learn about typescript
 - U = Union
 
 
-2. Interface vs Type :
+**2. Interface vs Type**
 2.a Interface (features)
    - Object
    - merge
@@ -27,9 +27,16 @@ learn about typescript
    - object
    - intersection & union
    - implementes
+Features              | Interface | Type    |
+--------------------- | --------- | ------- |
+Aliases               | no        | yes     |
+Object                | yes       | yes     |
+Merge                 | yes       | no      | 
+Intersection & Union  | no        | yes     |
+Implementes           | yes       | yes     | 
+Extend                | yes       | no      | 
 
-
-3. Classes
+**3. Classes**
    Class biasanya digunakan untuk menerapkan Object Oriented Programming(OOP)
 - class basic : constructor, properties, method
 - access modifiers (private, public, readonly)
