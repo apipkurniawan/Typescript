@@ -14,3 +14,16 @@ learn about typescript
 T = Type
 K = Key
 u = Union
+
+
+2. Interface vs Type :
+=> Interface (features)
+   - Object
+   - merge
+   - implementes
+   - extend
+=> Type (features)
+   - aliases
+   - object
+   - intersection & union
+   - implementes
