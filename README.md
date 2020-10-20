@@ -40,6 +40,6 @@ public  | - [x]
 protected  | &#9745;
 private  | &#9744;
 
-| Checkbox Experiments | [ ] unchecked header  | [x] checked header  |
-| ---------------------|:---------------------:|:-------------------:|
-| checkbox             | [ ] row               | [x] row             |
+|checked|unchecked|crossed|
+|---|---|---|
+|&check;|_|&cross;|
