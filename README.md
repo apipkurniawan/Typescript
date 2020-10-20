@@ -15,16 +15,15 @@
 - K = Key
 - U = Union
 
-
 **2. Interface vs Type** <br />
 Features  | Interface | Type  
 ------------- | ------------- | ------------- 
-Aliases  | no  | yes  
-Object  | yes  | yes
-Merge  | yes  | no
-Intersection & Union  | no  | yes
-Implementes  | yes  | yes
-Extend  | yes  | no
+Aliases  | &cross;  | &check;  
+Object  | &check;  | &check;
+Merge  | &check;  | &cross;
+Intersection & Union  | &cross;  | &check;
+Implementes  | &check;  | &check;
+Extend  | &check;  | &cross;
 
 **3. Classes** <br />
    Class biasanya digunakan untuk menerapkan Object Oriented Programming(OOP)
@@ -36,10 +35,6 @@ Extend  | yes  | no
 
 access modifier  | class | sub-class | instance
 ------------- | ------------- | ------------- | -------------
-public  | - [x]
-protected  | &#9745;
-private  | &#9744;
-
-|checked|unchecked|crossed|
-|---|---|---|
-|&check;|_|&cross;|
+public  | &check; | &check; | &check;
+protected  | &check; | &check; | &cross;
+private  | &check; | &cross; | &cross;
