@@ -17,7 +17,6 @@
 
 
 **2. Interface vs Type** <br />
-- [x]
 Features  | Interface | Type  
 ------------- | ------------- | ------------- 
 Aliases  | no  | yes  
@@ -37,6 +36,6 @@ Extend  | yes  | no
 
 access modifier  | class | sub-class | instance
 ------------- | ------------- | ------------- | -------------
-public  | 
+public  | [x]
 protected  | Content Cell
 private  | Content Cell
