@@ -11,18 +11,18 @@ learn about typescript
 - Extract   =>  Extract<T, U> 
 - Exclude   =>  Exclude<T, U>
 
-T = Type
-K = Key
-u = Union
+- T = Type
+- K = Key
+- U = Union
 
 
 2. Interface vs Type :
-=> Interface (features)
+Interface (features)
    - Object
    - merge
    - implementes
    - extend
-=> Type (features)
+Type (features)
    - aliases
    - object
    - intersection & union
