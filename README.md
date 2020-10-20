@@ -16,7 +16,7 @@
 - U = Union
 
 
-**2. Interface vs Type**
+**2. Interface vs Type** <br />
 2.a Interface (features)
    - Object
    - merge
@@ -36,7 +36,12 @@ Intersection & Union  | no        | yes     |
 Implementes           | yes       | yes     | 
 Extend                | yes       | no      | 
 
-**3. Classes**
+First Header  | Second Header | First Header  | Second Header
+------------- | ------------- | ------------- | -------------
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+
+**3. Classes** <br />
    Class biasanya digunakan untuk menerapkan Object Oriented Programming(OOP)
 - class basic : constructor, properties, method
 - access modifiers (private, public, readonly)
