@@ -11,9 +11,10 @@
 - Extract   =>  Extract<T, U> 
 - Exclude   =>  Exclude<T, U>
 
-- T = Type
-- K = Key
-- U = Union
+NB: 
+T = Type,
+K = Key,
+U = Union
 
 **2. Interface vs Type** <br />
 Features  | Interface | Type  
